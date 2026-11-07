@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "system": "agamos",
+  "poc": "proof-of-concept",
+  "owner": "blackvaultllc",
+  "repo": "purple",
+  "visibility": "public",
+  "purpose": "Smart TV repair \u2014 Silent Security Vault, Mobile AL",
+  "watch": {
+    "status": "watched",
+    "department": "github-department",
+    "command": "sistimestamp.space \u2014 operator only, no public access",
+    "access": "read-only watch via GitHub. No sign-in, no deploy, no keys."
+  },
+  "notes": "No keys, secrets, passwords, tokens, personal email, or phone in this file. This file grants no sign-in, no deploy, and no public path into the deck/command."
+}
